@@ -1,0 +1,4 @@
+<settings>
+    <setting name="file_system_path">tmpfs.zip</setting>
+    <setting name="username">TestUser</setting>
+</settings>

@@ -1,0 +1,13 @@
+[queue]
+myserver = "myserver"
+port = 8080
+host = "localhost"
+arr = [ "some_value", 12,]
+
+[queue.settings]
+logpath = "/var/log/server.log"
+mode = "debug"
+
+[queue.settings.lol]
+logpath = "/var/log/server.log"
+mode = "debug"
